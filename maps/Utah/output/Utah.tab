@@ -1,0 +1,10 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 3
+    STATE Char (16) ;
+    Shape_Leng Decimal (19,11) ;
+    Shape_Area Decimal (19,11) ;
